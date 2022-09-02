@@ -1,4 +1,4 @@
-# VirtualFlowStudio Public (v1.0)
+# VirtualFlowStudio v1.0 (Public)
 
 ![Virtualflow_Logo](./Virtualflow_Logo.png)
 
@@ -23,8 +23,7 @@
 - **Supported Platform**
   - Windows 64bit
 - **Download Binaries**
-  - https://github.com/VirtualFlowInc/VirtualFlowStudio_Beta/releases
-    - [Installation guide](https://wiggly-burst-46b.notion.site/Tutorial-1-Introduction-to-T4Framework-Setup-for-the-Following-Tutorials-77f7bfcbc68e4fe19c13ee416ee7972d)
+  - https://github.com/VirtualFlowInc/VirtualFlowStudio_Public/releases
 - **Assets you need to download to follow along the tutorials (Free Assets)**
   - TutorialGame_Example Project
     - <a href="https://www.unrealengine.com/marketplace/en-US/product/c93f1fa73dad4adf9a3d09883d8c8dec" target="_blank">City of Brass: Environments</a>
@@ -40,43 +39,43 @@
 
 ![Tutorials_Image](./Tutorials_Image.png)
 #### Story Tutorial
-Story Tutorial 0 : Introduction to T4Framework & Setup for the Following Tutorials
-Story Tutorial 1 : Character Settings 1
-Story Tutorial 2 : Character Settings 2
-Story Tutorial 3 : Project Creation & Basic Configuration of Player DB
-Story Tutorial 4 : Map Creation and Project World Configuration
-Story Tutorial 5 : Setting Up Event Triggers
-Story Tutorial 6 : NPC
-Story Tutorial 7 : Item Configuration
-Story Tutorial 8 : Configuring Media
-Story Tutorial 9 : Configuring Cinematics
-Story Tutorial 10 : Configuring Client Play
-Story Tutorial 11 : Setting up a Quest 1 (CaveEntrance Quest 1)
-Story Tutorial 12 : Setting Up Quest (CaveEntrance Quest 2)
-Story Tutorial 13 : Setting Up Quest 3 (Junkyard Quest 1)
-Story Tutorial 14 : 퀘스트 설정4 (Junkyard 퀘스트2)
-Story Tutorial 15 : 프로젝트 패키징
-내러티브 흐름 및 대본 (Story Tutorial용)
+- Story Tutorial 0 : Introduction to T4Framework & Setup for the Following Tutorials
+- Story Tutorial 1 : Character Settings 1
+- Story Tutorial 2 : Character Settings 2
+- Story Tutorial 3 : Project Creation & Basic Configuration of Player DB
+- Story Tutorial 4 : Map Creation and Project World Configuration
+- Story Tutorial 5 : Setting Up Event Triggers
+- Story Tutorial 6 : NPC
+- Story Tutorial 7 : Item Configuration
+- Story Tutorial 8 : Configuring Media
+- Story Tutorial 9 : Configuring Cinematics
+- Story Tutorial 10 : Configuring Client Play
+- Story Tutorial 11 : Setting up a Quest 1 (CaveEntrance Quest 1)
+- Story Tutorial 12 : Setting Up Quest (CaveEntrance Quest 2)
+- Story Tutorial 13 : Setting Up Quest 3 (Junkyard Quest 1)
+- Story Tutorial 14 : 퀘스트 설정4 (Junkyard 퀘스트2)
+- Story Tutorial 15 : 프로젝트 패키징
+- 내러티브 흐름 및 대본 (Story Tutorial용)
 
 #### Game Tutorial
-Tutorial 0: Installing Unreal Engine
-Tutorial 1: Introduction to T4Framework & Setup for the Following Tutorials
-Tutorial 2: Character Settings 1
-Tutorial 3: Character Settings 2
-Tutorial 4: Configuring Weapons
-Tutorial 5: Project Creation & Basic Configuration of Player and Weapon DB
-Tutorial 6: Map Creation and Project World Configuration
-Tutorial 7: Setting up Action Pack (Skills, Reactions)
-Tutorial 8: Adding Skill and Reaction to Project
-Tutorial 9: Configuring NPC (Enemy)
-Tutorial 10 : Setting up Stat DBs for Player and NPC
-Tutorial 11: Item Configuration and 'Drop' Settings
-Tutorial 12: Setting up a Quest (Basic Settings)
-Tutorial 13: Configuring Quests (Setting up Dialogues)
-Tutorial 14: Configuring Client Play
-Tutorial 15: Setting Up Event Triggers
-Tutorial 16: Project Packaging (Single Mode)
-Tutorial 17: Running a Server & Incorporating it into a Package
+- Tutorial 0: Installing Unreal Engine
+- Tutorial 1: Introduction to T4Framework & Setup for the Following Tutorials
+- Tutorial 2: Character Settings 1
+- Tutorial 3: Character Settings 2
+- Tutorial 4: Configuring Weapons
+- Tutorial 5: Project Creation & Basic Configuration of Player and Weapon DB
+- Tutorial 6: Map Creation and Project World Configuration
+- Tutorial 7: Setting up Action Pack (Skills, Reactions)
+- Tutorial 8: Adding Skill and Reaction to Project
+- Tutorial 9: Configuring NPC (Enemy)
+- Tutorial 10 : Setting up Stat DBs for Player and NPC
+- Tutorial 11: Item Configuration and 'Drop' Settings
+- Tutorial 12: Setting up a Quest (Basic Settings)
+- Tutorial 13: Configuring Quests (Setting up Dialogues)
+- Tutorial 14: Configuring Client Play
+- Tutorial 15: Setting Up Event Triggers
+- Tutorial 16: Project Packaging (Single Mode)
+- Tutorial 17: Running a Server & Incorporating it into a Package
 
 ### Community
 - Forum 
