@@ -73,7 +73,7 @@
 - <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59408385/Game+Tutorial" target="_blank">Tutorial 17: Running a Server & Incorporating it into a Package</a>
 
 # 커뮤니티
-- 포럼
-  - 준비중...
+- Discord
+  - https://discord.gg/7k238Cqh56
 - 문의
   - t4framework@virtualflowinc.com
