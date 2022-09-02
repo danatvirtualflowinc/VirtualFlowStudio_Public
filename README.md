@@ -19,66 +19,58 @@
 - **VirtualFlow Studio Version**
   - T4Framework v1.0
 - **Unreal Engine Version**
-  - UE5.0.3
+  - UE 5.0.3
 - **Supported Platform**
   - Windows 64bit
 - **Download Binaries**
   - https://github.com/VirtualFlowInc/VirtualFlowStudio_Public/releases
-- **Assets you need to download to follow along the tutorials (Free Assets)**
-  - TutorialGame_Example Project
-    - <a href="https://www.unrealengine.com/marketplace/en-US/product/c93f1fa73dad4adf9a3d09883d8c8dec" target="_blank">City of Brass: Environments</a>
-    - <a href="https://www.unrealengine.com/marketplace/en-US/product/unreal-learning-kit-games" target="_blank">Unreal Learning Kit: Games</a>
-  - Sample Project
-    - <a href="https://www.unrealengine.com/marketplace/en-US/product/animation-starter-pack" target="_blank">Animation Starter Pack</a>
-    - <a href="https://www.unrealengine.com/marketplace/en-US/product/advanced-locomotion-system-v1" target="_blank">Advanced Locomotion System</a>
-    - <a href="https://www.unrealengine.com/marketplace/en-US/product/fps-weapon-bundle" target="_blank">FPS Weapon Bundle</a>
-- **Showcase**
-  - <a href="https://t4framework.com/Showcase/" target="_blank">https://t4framework.com/Showcase</a>
+- **Website**
+  - <a href="https://t4framework.com" target="_blank">https://t4framework.com</a>
 
 ### Tutorials
 
 ![Tutorials_Image](./Tutorials_Image.png)
 #### Story Tutorial
-- Story Tutorial 0 : Introduction to T4Framework & Setup for the Following Tutorials
-- Story Tutorial 1 : Character Settings 1
-- Story Tutorial 2 : Character Settings 2
-- Story Tutorial 3 : Project Creation & Basic Configuration of Player DB
-- Story Tutorial 4 : Map Creation and Project World Configuration
-- Story Tutorial 5 : Setting Up Event Triggers
-- Story Tutorial 6 : NPC
-- Story Tutorial 7 : Item Configuration
-- Story Tutorial 8 : Configuring Media
-- Story Tutorial 9 : Configuring Cinematics
-- Story Tutorial 10 : Configuring Client Play
-- Story Tutorial 11 : Setting up a Quest 1 (CaveEntrance Quest 1)
-- Story Tutorial 12 : Setting Up Quest (CaveEntrance Quest 2)
-- Story Tutorial 13 : Setting Up Quest 3 (Junkyard Quest 1)
-- Story Tutorial 14 : 퀘스트 설정4 (Junkyard 퀘스트2)
-- Story Tutorial 15 : 프로젝트 패키징
-- 내러티브 흐름 및 대본 (Story Tutorial용)
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59342849/Story+Tutorial" target="_blank">Story Tutorial 0 : Introduction to T4Framework & Setup for the Following Tutorials</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59342849/Story+Tutorial" target="_blank">Story Tutorial 1 : Character Settings 1</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59342849/Story+Tutorial" target="_blank">Story Tutorial 2 : Character Settings 2</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59342849/Story+Tutorial" target="_blank">Story Tutorial 3 : Project Creation & Basic Configuration of Player DB</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59342849/Story+Tutorial" target="_blank">Story Tutorial 4 : Map Creation and Project World Configuration</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59342849/Story+Tutorial" target="_blank">Story Tutorial 5 : Setting Up Event Triggers</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59342849/Story+Tutorial" target="_blank">Story Tutorial 6 : NPC</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59342849/Story+Tutorial" target="_blank">Story Tutorial 7 : Item Configuration</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59342849/Story+Tutorial" target="_blank">Story Tutorial 8 : Configuring Media</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59342849/Story+Tutorial" target="_blank">Story Tutorial 9 : Configuring Cinematics</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59342849/Story+Tutorial" target="_blank">Story Tutorial 10 : Configuring Client Play</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59342849/Story+Tutorial" target="_blank">Story Tutorial 11 : Setting up a Quest 1 (CaveEntrance Quest 1)</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59342849/Story+Tutorial" target="_blank">Story Tutorial 12 : Setting Up Quest (CaveEntrance Quest 2)</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59342849/Story+Tutorial" target="_blank">Story Tutorial 13 : Setting Up Quest 3 (Junkyard Quest 1)</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59342849/Story+Tutorial" target="_blank">Story Tutorial 14 : 퀘스트 설정4 (Junkyard 퀘스트2)</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59342849/Story+Tutorial" target="_blank">Story Tutorial 15 : 프로젝트 패키징</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59342849/Story+Tutorial" target="_blank">내러티브 흐름 및 대본 (Story Tutorial용)</a>
 
 #### Game Tutorial
-- Tutorial 0: Installing Unreal Engine
-- Tutorial 1: Introduction to T4Framework & Setup for the Following Tutorials
-- Tutorial 2: Character Settings 1
-- Tutorial 3: Character Settings 2
-- Tutorial 4: Configuring Weapons
-- Tutorial 5: Project Creation & Basic Configuration of Player and Weapon DB
-- Tutorial 6: Map Creation and Project World Configuration
-- Tutorial 7: Setting up Action Pack (Skills, Reactions)
-- Tutorial 8: Adding Skill and Reaction to Project
-- Tutorial 9: Configuring NPC (Enemy)
-- Tutorial 10 : Setting up Stat DBs for Player and NPC
-- Tutorial 11: Item Configuration and 'Drop' Settings
-- Tutorial 12: Setting up a Quest (Basic Settings)
-- Tutorial 13: Configuring Quests (Setting up Dialogues)
-- Tutorial 14: Configuring Client Play
-- Tutorial 15: Setting Up Event Triggers
-- Tutorial 16: Project Packaging (Single Mode)
-- Tutorial 17: Running a Server & Incorporating it into a Package
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59408385/Game+Tutorial" target="_blank">Tutorial 0: Installing Unreal Engine</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59408385/Game+Tutorial" target="_blank">Tutorial 1: Introduction to T4Framework & Setup for the Following Tutorials</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59408385/Game+Tutorial" target="_blank">Tutorial 2: Character Settings 1</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59408385/Game+Tutorial" target="_blank">Tutorial 3: Character Settings 2</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59408385/Game+Tutorial" target="_blank">Tutorial 4: Configuring Weapons</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59408385/Game+Tutorial" target="_blank">Tutorial 5: Project Creation & Basic Configuration of Player and Weapon DB</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59408385/Game+Tutorial" target="_blank">Tutorial 6: Map Creation and Project World Configuration</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59408385/Game+Tutorial" target="_blank">Tutorial 7: Setting up Action Pack (Skills, Reactions)</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59408385/Game+Tutorial" target="_blank">Tutorial 8: Adding Skill and Reaction to Project</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59408385/Game+Tutorial" target="_blank">Tutorial 9: Configuring NPC (Enemy)</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59408385/Game+Tutorial" target="_blank">Tutorial 10 : Setting up Stat DBs for Player and NPC</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59408385/Game+Tutorial" target="_blank">Tutorial 11: Item Configuration and 'Drop' Settings</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59408385/Game+Tutorial" target="_blank">Tutorial 12: Setting up a Quest (Basic Settings)</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59408385/Game+Tutorial" target="_blank">Tutorial 13: Configuring Quests (Setting up Dialogues)</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59408385/Game+Tutorial" target="_blank">Tutorial 14: Configuring Client Play</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59408385/Game+Tutorial" target="_blank">Tutorial 15: Setting Up Event Triggers</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59408385/Game+Tutorial" target="_blank">Tutorial 16: Project Packaging (Single Mode)</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59408385/Game+Tutorial" target="_blank">Tutorial 17: Running a Server & Incorporating it into a Package</a>
 
 ### Community
 - Forum 
   - In progress...
 - Customer Service
-  - info@virtualflowinc.com
+  - t4framework@virtualflowinc.com
