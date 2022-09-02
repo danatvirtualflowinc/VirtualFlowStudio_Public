@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "ModularCharacter",
-		"Version": 1,
+		"Version": 4,
 		"NameTextDBKey":
 		{
 			"TextCategory": "Name",
@@ -12,6 +12,7 @@
 			"ValidationResult": "CheckIt"
 		},
 		"RaceName": "None",
+		"DefaultAnimSetName": "Default",
 		"DefaultStanceName": "Default",
 		"ShapeData":
 		{
@@ -33,11 +34,8 @@
 				"DurationSec": 0,
 				"HoldTimeSec": 0
 			},
-			"InPlaceRotationRate": 300
-		},
-		"BehaviorData":
-		{
-			"EnemyType": "Creature"
+			"InPlaceRotationRate": 300,
+			"bUseTurnControl": false
 		},
 		"DefaultPlayerStatDBKey":
 		{
@@ -46,10 +44,16 @@
 			"RowName": "None",
 			"ValidationResult": "CheckIt"
 		},
+		"PlayerStatLevelDBKey":
+		{
+			"Type": "StatLevel",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
 		"DefaultCostumeDBKey":
 		{
 			"Type": "Costume",
-			"RowName": "NewDBKeyName",
+			"RowName": "None",
 			"ValidationResult": "CheckIt"
 		},
 		"CostumePartsDBKeys":
@@ -58,6 +62,30 @@
 			{
 				"Type": "Costume",
 				"RowName": "Head",
+				"ValidationResult": "CheckIt"
+			},
+			"Torso":
+			{
+				"Type": "Costume",
+				"RowName": "Torso",
+				"ValidationResult": "CheckIt"
+			},
+			"Pants":
+			{
+				"Type": "Costume",
+				"RowName": "Legs",
+				"ValidationResult": "CheckIt"
+			},
+			"Gloves":
+			{
+				"Type": "Costume",
+				"RowName": "Gloves",
+				"ValidationResult": "CheckIt"
+			},
+			"Boots":
+			{
+				"Type": "Costume",
+				"RowName": "Boots",
 				"ValidationResult": "CheckIt"
 			}
 		},
@@ -82,25 +110,43 @@
 		"DefaultItemPackDBKey":
 		{
 			"Type": "ItemPack",
-			"RowName": "None",
+			"RowName": "CostumeSet",
 			"ValidationResult": "CheckIt"
 		},
-		"EntityAsset": "/Game/VirtualFlow/StarterPack/Entity/PC/Examples/ModularMesh/T4ModularCharacter.T4ModularCharacter",
+		"BehaviorData":
+		{
+			"EnemyType": "Creature"
+		},
+		"EntityAsset": "/Game/VirtualFlow/StarterPack/Entity/PC/Mannequin/ModularMesh/T4ModularCharacter.T4ModularCharacter",
 		"FullbodySkinName": "None",
+		"bExcludePlayerList": false,
 		"ReactionData":
 		{
 			"ReactionTemplate": "None",
 			"HitActionPackAsset": "None",
+			"SprintStartActionPackAsset": "None",
+			"SprintEndActionPackAsset": "None",
+			"PickActionPackAsset": "None",
 			"KnockbackActionPackAsset": "None",
 			"StunActionPackAsset": "None",
 			"AirborneActionPackAsset": "None",
 			"DieActionPackAsset": "None",
 			"ResurrectActionPackAsset": "None",
-			"SprintStartActionPackAsset": "None",
-			"SprintEndActionPackAsset": "None",
 			"OpeningActionPackAsset": "None",
 			"ClosedActionPackAsset": "None"
 		},
+		"PlayActionData":
+		{
+			"PlayActionType": "None",
+			"HitActionPackAsset": "None",
+			"bDisableHitAnimation": false,
+			"SprintStartActionPackAsset": "None",
+			"SprintEndActionPackAsset": "None",
+			"LevelUpActionPackAsset": "None",
+			"PickActionPackAsset": "None"
+		},
+		"ObjectStateDatas": [],
+		"bFolder": false,
 		"FolderName": "None",
 		"bPinned": true,
 		"ParentRowName": "None"

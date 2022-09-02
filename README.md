@@ -1,4 +1,4 @@
-# VirtualFlow Studio (Beta Version) - WIP
+# VirtualFlowStudio Public (v1.0)
 
 ![Virtualflow_Logo](./Virtualflow_Logo.png)
 
@@ -13,23 +13,15 @@
 <p align="center"><img src="https://t4framework.com/img/Epic_MegaGrants_Recipient_logo.png"></p>  
 <p align="center"><a href="https://www.unrealengine.com/en-US/megagrants" target="_blank">2020 : Awarded "Epic MegaGrant" from Epic Games Inc</a></p>  
 
-## A Free Demo of VirtualFlow Studio (for Unreal Engine 5 EA) is Here For You
-
-**VirtualFlow Inc.** is a startup that’s made up of veteran software engineers with more than 15 years of experience in the production of several MMORPGs. After more than two years of development, we have finally released a beta version you can test out, which is compatible with the **Unreal Engine 5 Early Access**. We plan to continuously update our software to make it function properly within the officially released version of the **Unreal Engine 5.**
-
-![T4Framework_Image](./T4Framework_Image.png)
-
 ## VirtualFlow Studio
 
 ### Information
 - **VirtualFlow Studio Version**
-  - T4Framework v1.0a
+  - T4Framework v1.0
 - **Unreal Engine Version**
-  - UE5.0 Early Access 1
+  - UE5.0.3
 - **Supported Platform**
   - Windows 64bit
-- **License**
-  - FREE ("Unreal Engine 5 Early Access" Version)
 - **Download Binaries**
   - https://github.com/VirtualFlowInc/VirtualFlowStudio_Beta/releases
     - [Installation guide](https://wiggly-burst-46b.notion.site/Tutorial-1-Introduction-to-T4Framework-Setup-for-the-Following-Tutorials-77f7bfcbc68e4fe19c13ee416ee7972d)
@@ -47,25 +39,44 @@
 ### Tutorials
 
 ![Tutorials_Image](./Tutorials_Image.png)
-- <a href="https://wiggly-burst-46b.notion.site/Tutorial-0-Installing-Unreal-Engine-7ef95f459fbe406988ead87703381baa" target="_blank">Tutorial 0: Installing Unreal Engine</a>
-- <a href="https://wiggly-burst-46b.notion.site/Tutorial-1-Introduction-to-T4Framework-Setup-for-the-Following-Tutorials-77f7bfcbc68e4fe19c13ee416ee7972d" target="_blank">Tutorial 1: Introduction to T4Framework & Setup for the Following Tutorials</a>
-- <a href="https://wiggly-burst-46b.notion.site/Tutorial-2-Character-Configuration-1-000936d0c6884416a53e605ec08eb468" target="_blank">Tutorial 2: Character Configuration 1</a>
-- <a href="https://wiggly-burst-46b.notion.site/Tutorial-3-Character-Configuration-2-2fa384b94b9c49a890c73f1ade686164" target="_blank">Tutorial 3: Character Configuration 2</a>
-- <a href="https://wiggly-burst-46b.notion.site/Tutorial-4-Configuring-Weapons-cbf4710673a6435fbd0db6839768218c" target="_blank">Tutorial 4: Configuring Weapons</a>
-- <a href="https://wiggly-burst-46b.notion.site/Tutorial-5-Project-Creation-Basic-Configuration-of-Player-and-Weapon-DB-df6d4eb8954740c981c086974241f681" target="_blank">Tutorial 5: Project Creation & Basic Configuration of Player and Weapon DB</a>
-- <a href="https://wiggly-burst-46b.notion.site/Tutorial-6-Map-Creation-and-Project-World-Configuration-13110474096c4e138019bb0f5dae87b5" target="_blank">Tutorial 6: Map Creation and Project World Configuration</a>
-- <a href="https://wiggly-burst-46b.notion.site/Tutorial-7-Navigation-Settings-59bc7d53abde4f1fa55d306583523719" target="_blank">Tutorial 7: Navigation Settings</a>
-- <a href="https://wiggly-burst-46b.notion.site/Tutorial-8-Setting-up-Action-Pack-Skills-Reactions-b29fa1561de54985bc5ad3f085887a40" target="_blank">Tutorial 8: Setting up Action Pack (Skills, Reactions)</a>
-- <a href="https://wiggly-burst-46b.notion.site/Tutorial-9-Adding-Skill-and-Reaction-to-Project-cd52565b7cda471ca395ab5b0a69510c" target="_blank">Tutorial 9: Adding Skill and Reaction to Project</a>
-- <a href="https://wiggly-burst-46b.notion.site/Tutorial-10-Configuring-NPC-6b45f83707c34407942a2be5eb9f4ec7" target="_blank">Tutorial 10: Configuring NPC</a>
-- <a href="https://wiggly-burst-46b.notion.site/Tutorial-11-Items-Configuration-and-Drop-179ae336869f45858b36992186c44730" target="_blank">Tutorial 11: Items Configuration and Drop</a>
-- <a href="https://wiggly-burst-46b.notion.site/Tutorial-12-Setting-up-a-Quest-Basic-Settings-d0b3ed2f4250401dab9602d3f334aa44" target="_blank">Tutorial 12: Setting up a Quest (Basic Settings)</a>
-- <a href="https://wiggly-burst-46b.notion.site/Tutorial-13-Configuring-Quests-Setting-up-Dialogues-60524d863faa4ec3adc739c87c705668" target="_blank">Tutorial 13: Configuring Quests (Setting up Dialogues)</a>
-- <a href="https://wiggly-burst-46b.notion.site/Tutorial-14-Configuring-Client-Play-4c5c1e13c58e4a7ca0d38d70c490695b" target="_blank">Tutorial 14: Configuring Client Play</a>
-- <a href="https://wiggly-burst-46b.notion.site/Tutorial-15-Setting-Up-Event-Triggers-cad258f289e546668339dc8d55bafd48" target="_blank">Tutorial 15: Setting Up Event Triggers</a>
-- <a href="https://wiggly-burst-46b.notion.site/Tutorial-16-Project-Packaging-Single-Mode-cdbfaecc0b514ae8bc36a2db22ee5b84" target="_blank">Tutorial 16: Project Packaging (Single Mode)</a>
-- <a href="https://wiggly-burst-46b.notion.site/Tutorial-17-Running-a-Server-Incorporating-it-into-a-Package-e7d09be3f2904fa890c149b7285b8382" target="_blank">Tutorial 17: Running a Server & Incorporating it into a Package</a>
-- <a href="https://wiggly-burst-46b.notion.site/T4Framework-Hotkeys-Inputs-5d013c8fa3eb41c99adb594cb552b066" target="_blank">Input guide</a>
+#### Story Tutorial
+Story Tutorial 0 : Introduction to T4Framework & Setup for the Following Tutorials
+Story Tutorial 1 : Character Settings 1
+Story Tutorial 2 : Character Settings 2
+Story Tutorial 3 : Project Creation & Basic Configuration of Player DB
+Story Tutorial 4 : Map Creation and Project World Configuration
+Story Tutorial 5 : Setting Up Event Triggers
+Story Tutorial 6 : NPC
+Story Tutorial 7 : Item Configuration
+Story Tutorial 8 : Configuring Media
+Story Tutorial 9 : Configuring Cinematics
+Story Tutorial 10 : Configuring Client Play
+Story Tutorial 11 : Setting up a Quest 1 (CaveEntrance Quest 1)
+Story Tutorial 12 : Setting Up Quest (CaveEntrance Quest 2)
+Story Tutorial 13 : Setting Up Quest 3 (Junkyard Quest 1)
+Story Tutorial 14 : 퀘스트 설정4 (Junkyard 퀘스트2)
+Story Tutorial 15 : 프로젝트 패키징
+내러티브 흐름 및 대본 (Story Tutorial용)
+
+#### Game Tutorial
+Tutorial 0: Installing Unreal Engine
+Tutorial 1: Introduction to T4Framework & Setup for the Following Tutorials
+Tutorial 2: Character Settings 1
+Tutorial 3: Character Settings 2
+Tutorial 4: Configuring Weapons
+Tutorial 5: Project Creation & Basic Configuration of Player and Weapon DB
+Tutorial 6: Map Creation and Project World Configuration
+Tutorial 7: Setting up Action Pack (Skills, Reactions)
+Tutorial 8: Adding Skill and Reaction to Project
+Tutorial 9: Configuring NPC (Enemy)
+Tutorial 10 : Setting up Stat DBs for Player and NPC
+Tutorial 11: Item Configuration and 'Drop' Settings
+Tutorial 12: Setting up a Quest (Basic Settings)
+Tutorial 13: Configuring Quests (Setting up Dialogues)
+Tutorial 14: Configuring Client Play
+Tutorial 15: Setting Up Event Triggers
+Tutorial 16: Project Packaging (Single Mode)
+Tutorial 17: Running a Server & Incorporating it into a Package
 
 ### Community
 - Forum 
