@@ -13,7 +13,7 @@
 완전히 새롭게 설계된 게임플레이 프레임워크와 전문가 급의 개발 툴셋을 제공해 누구나 쉽게 오픈월드 멀티플레이어 콘텐츠를 구현할 수 있도록 지원합니다.
 
 <p align="center"><img src="https://t4framework.com/img/Epic_MegaGrants_Recipient_logo.png"></p>  
-<p align="center"><a href="https://www.unrealengine.com/en-US/megagrants" target="_blank">2020 : Awarded "Epic MegaGrant" from Epic Games Inc</a></p>  
+<p align="center">Awarded "Epic MegaGrant" from Epic Games Inc</p>  
 
 # VirtualFlow Studio
 
