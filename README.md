@@ -23,7 +23,7 @@
 - **Supported Platform**
   - Windows 64bit
 - **License**
-  - Evaluation
+  - Evaluation (7 days)
 - **Download Binaries**
   - https://github.com/VirtualFlowInc/VirtualFlowStudio_Public/releases
 - **Website**

@@ -25,7 +25,7 @@
 - **지원 플랫폼**
   - Windows 64bit
 - **라이선스**
-  - Evaluation
+  - Evaluation (7 days)
 - **다운로드 (바이너리)**
   - https://github.com/VirtualFlowInc/VirtualFlowStudio_Public/releases
 - **홈페이지**
