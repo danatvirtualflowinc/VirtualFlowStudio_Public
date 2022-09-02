@@ -1,4 +1,4 @@
-# VirtualFlowStudio v1.0 (Public)
+# VirtualFlowStudio v1.0 (Evaluation)
 
 ![Virtualflow_Logo](./Virtualflow_Logo.png)
 
@@ -15,9 +15,9 @@
 <p align="center"><img src="https://t4framework.com/img/Epic_MegaGrants_Recipient_logo.png"></p>  
 <p align="center"><a href="https://www.unrealengine.com/en-US/megagrants" target="_blank">2020 : Awarded "Epic MegaGrant" from Epic Games Inc</a></p>  
 
-## VirtualFlow Studio
+# VirtualFlow Studio
 
-### 정보
+## 정보
 - **VirtualFlow Studio 버전**
   - T4Framework v1.0
 - **언리얼 엔진 버전**
@@ -25,15 +25,15 @@
 - **지원 플랫폼**
   - Windows 64bit
 - **라이선스**
-  - N/A
+  - Evaluation
 - **다운로드 (바이너리)**
   - https://github.com/VirtualFlowInc/VirtualFlowStudio_Public/releases
 - **홈페이지**
   - <a href="https://t4framework.com" target="_blank">https://t4framework.com</a>
 
-### 튜토리얼
+## 튜토리얼
 ![Tutorials_Image](./Tutorials_Image.png)
-#### Story Tutorial
+### Story Tutorial
 - <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59342849/Story+Tutorial" target="_blank">Story Tutorial 0 : Introduction to T4Framework & Setup for the Following Tutorials</a>
 - <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59342849/Story+Tutorial" target="_blank">Story Tutorial 1 : Character Settings 1</a>
 - <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59342849/Story+Tutorial" target="_blank">Story Tutorial 2 : Character Settings 2</a>
@@ -52,7 +52,7 @@
 - <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59342849/Story+Tutorial" target="_blank">Story Tutorial 15 : 프로젝트 패키징</a>
 - <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59342849/Story+Tutorial" target="_blank">내러티브 흐름 및 대본 (Story Tutorial용)</a>
 
-#### Game Tutorial
+### Game Tutorial
 - <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59408385/Game+Tutorial" target="_blank">Tutorial 0: Installing Unreal Engine</a>
 - <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59408385/Game+Tutorial" target="_blank">Tutorial 1: Introduction to T4Framework & Setup for the Following Tutorials</a>
 - <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59408385/Game+Tutorial" target="_blank">Tutorial 2: Character Settings 1</a>
@@ -72,7 +72,7 @@
 - <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59408385/Game+Tutorial" target="_blank">Tutorial 16: Project Packaging (Single Mode)</a>
 - <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59408385/Game+Tutorial" target="_blank">Tutorial 17: Running a Server & Incorporating it into a Package</a>
 
-### 커뮤니티
+# 커뮤니티
 - 포럼
   - 준비중...
 - 문의
