@@ -10,10 +10,10 @@
 
 **VirtualFlow Studio**—which was created with the help of the **T4Framework** plugin—is an Integrated Development Environment that enables you to utilize the powerful features of the Unreal Engine even without the technical knowledge on **Blueprint Visual Scripting** or **C++** programming language. **VirtualFlow Studio** provides you with a brand-new gameplay framework and a professional-level toolset, with which anybody can create an open-world multiplayer content. 
 
+# VirtualFlow Studio
+
 <p align="center"><img src="https://t4framework.com/img/Epic_MegaGrants_Recipient_logo.png"></p>  
 <p align="center">Awarded "Epic MegaGrant" from Epic Games Inc</p>  
-
-# VirtualFlow Studio
 
 ## Information
 - **VirtualFlow Studio Version**
