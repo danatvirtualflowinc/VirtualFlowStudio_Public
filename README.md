@@ -29,6 +29,15 @@
 - **Website**
   - <a href="https://t4framework.com" target="_blank">https://t4framework.com</a>
 
+## Installation
+- Use either of the two methods listed below to download a T4Framework Project
+  - Use “Code → Copy” (click the green button) then clone the repository using Git (you can use Git Gui programs like Github Desktop, SourceTree, GitKraken, etc.) to your computer
+  - Click “Code → Download ZIP” to download the compressed T4Framework project then decompress it to open the project
+- If you’ve finished downloading the project, click the Releases version on the right
+- In the Assets foldout menu, download the compressed “VirtualFlowStudio_Binary” file then decompress it
+- Finish up the installation by moving the “Binaries” and “Plugins” folders in “VirtualFlowStudio_Binary” to the “VirtualFlowStudio(Beta)” project folder.
+- Running a project that has T4Framework installed
+
 ## Tutorials
 
 ![Tutorials_Image](./Tutorials_Image.png)
