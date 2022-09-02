@@ -34,21 +34,21 @@
   - https://www.unrealengine.com/
 - Use either of the two methods listed below to download a T4Framework Project
   - Use “Code → Copy” (click the green button) then clone the repository using Git (you can use Git Gui programs like Github Desktop, SourceTree, GitKraken, etc.) to your computer
-    - ![Installation-1-1](./Installation-1-1.png)
+    ![Installation-1-1](./Installation-1-1.png)
   - Click “Code → Download ZIP” to download the compressed T4Framework project then decompress it to open the project
-    - ![Installation-1-1](./Installation-1-2.png)
+    ![Installation-1-1](./Installation-1-2.png)
 - If you’ve finished downloading the project, click the Releases version on the right
-  - ![Installation-2](./Installation-2.png)
+  ![Installation-2](./Installation-2.png)
 - In the Assets foldout menu, download the compressed “VirtualFlowStudio_Binary” file then decompress it
-  - ![Installation-3-1](./Installation-3-1.png)
-  - ![Installation-3-2](./Installation-3-2.png)
+  ![Installation-3-1](./Installation-3-1.png)
+  ![Installation-3-2](./Installation-3-2.png)
 - Finish up the installation by moving the “Binaries” and “Plugins” folders in “VirtualFlowStudio_Binary” to the “VirtualFlowStudio(Beta)” project folder.
-  - ![Installation-4-1](./Installation-4-1.png)
-  - ![Installation-4-2](./Installation-4-2.png)
+  ![Installation-4-1](./Installation-4-1.png)
+  ![Installation-4-2](./Installation-4-2.png)
 - Running a project that has T4Framework installed
-  - ![Installation-5](./Installation-5.png)
+  ![Installation-5](./Installation-5.png)
 - Setting up DDC (Derived Data Cache) Folder
-  - ![Installation-6](./Installation-6.png)
+  ![Installation-6](./Installation-6.png)
 
 ## Tutorials
 
