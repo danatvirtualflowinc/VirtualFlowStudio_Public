@@ -69,9 +69,9 @@
 - <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/64520193/Story+Tutorial" target="_blank">Story Tutorial 11 : Setting up a Quest 1 (CaveEntrance Quest 1)</a>
 - <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/64520193/Story+Tutorial" target="_blank">Story Tutorial 12 : Setting Up Quest (CaveEntrance Quest 2)</a>
 - <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/64520193/Story+Tutorial" target="_blank">Story Tutorial 13 : Setting Up Quest 3 (Junkyard Quest 1)</a>
-- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/64520193/Story+Tutorial" target="_blank">Story Tutorial 14 : 퀘스트 설정4 (Junkyard 퀘스트2)</a>
-- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/64520193/Story+Tutorial" target="_blank">Story Tutorial 15 : 프로젝트 패키징</a>
-- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/64520193/Story+Tutorial" target="_blank">내러티브 흐름 및 대본 (Story Tutorial용)</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/64520193/Story+Tutorial" target="_blank">Story Tutorial 14 : Setting Up Quest 4 (Junkyard Quest 2)</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/64520193/Story+Tutorial" target="_blank">Story Tutorial 15 : Project Packaging</a>
+- <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/64520193/Story+Tutorial" target="_blank">Project Narrative and Story Document (for Story Tutorial)</a>
 
 ### Game Tutorial
 - <a href="https://virtualflow.atlassian.net/wiki/spaces/T4FrameworkPublic/pages/59408385/Game+Tutorial" target="_blank">Tutorial 0: Installing Unreal Engine</a>
