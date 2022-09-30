@@ -60,6 +60,7 @@ Resource/Data/TylerJo
 /*.sln
 .vs
 Binaries/Win64/*.exe
+Config/DefaultVirtualFlowStudio.ini
 Config/DefaultT4Framework.ini
 *BuiltData.uasset
 enc_temp_folder/
