@@ -1,43 +1,17 @@
 # 1.0.1.8 : 2022-09-30 16:19:15
 
-### New feature or Enhancement
+### [New feature or Enhancement]
 ##### Client or Server
   - [Client] Guest 모드시 캐릭터 생성 못하는 문제 수정 (#t4f-327)
 ##### Editor
   - [Action] 초기 PreviewEntity 스폰 시 Bookmark에 설정된 동일 맵의 저장 위치로 캐릭터가 스폰되도록 개선 (#t4f-320)
 
-### Bugfix
+### [Bugfix]
   - [Entity] Weapon/Costume Entity 생성 후 오픈 시 발생하는 크래시 수정 (#t4f-247)
-
-# 1.0.1.7 : 2022-09-29 18:48:49
-
-### New feature or Enhancement
-##### Client or Server
-  - 인벤토리 UITemplate 타입 추가 for MetaHuman (#t4f-314)
-##### Editor
-  - [Action] ControlRig Action 편집 시 캐릭터 Mesh에 Default Animation Rig 데이터가 설정되어 있다면 활용할 수 있도록 기능 추가 (#t4f-246)
-  - [Customizing Rig] Rig 정보의 Min/Max Property를 Start/End로 변경하고 Start/End의 값 크기를 비교하여 증감할 수 있는 로직으로 수정 (#t4f-329)
-  - [Customizing Rig] Rig 작업 내용을 비슷한 SK구조를 가진 Face에 적용할 수 있도록 Export/Import하는 기능 제공 (#t4f-330)
-
-### Bugfix
-##### Common
-  - [Common] NPC Waypoint 이동 및 리플레이 플레이에서 캐릭터 이동 중 캐릭터 간 충돌 방지 옵션이 동작하지 않던 문제 수정 (#t4f-334)
-
-### AssetUpdate (Dev to TD)
-- #t4f-314 [리소스 업데이트]
-\t- Content\\VirtualFlow\\UIPack\\Common\\T4Builtin_Common_Message.uasset
-\t- Content\\VirtualFlow\\UIPack\\InGame\\T4BuiltinDBBrowserWidget.uasset
-\t- Content\\VirtualFlow\\UIPack\\InGame\\T4BuiltinEquipmentWidget_1.uasset
-\t- Content\\VirtualFlow\\UIPack\\T4BuiltinLoginMainWidget_1.uasset
-\t- Content\\VirtualFlow\\UIPack\\Template\\TileBase\\Common\\T4InventoryTab_TileBase.uasset (New)
-\t- Content\\VirtualFlow\\UIPack\\Template\\TileBase\\InGame\\T4Inventory_TileBase.uasset (New)
-\t- Content\\VirtualFlow\\UIPack\\Template\\TileBase\\InGame\\T4InventoryLayout_TileBase.uasset (New)
-\t- Content\\VirtualFlow\\UIPack\\Template\\TileBase\\Item\\T4InventoryListItem_TileBase.uasset (New)
-
 
 # 1.0.1.7 : 2022-09-29 17:50:45
 
-### New feature or Enhancement
+### [New feature or Enhancement]
 ##### Client or Server
   - 인벤토리 UITemplate 타입 추가 for MetaHuman (#t4f-314)
 ##### Editor
@@ -45,24 +19,24 @@
   - [Customizing Rig] Rig 정보의 Min/Max Property를 Start/End로 변경하고 Start/End의 값 크기를 비교하여 증감할 수 있는 로직으로 수정 (#t4f-329)
   - [Customizing Rig] Rig 작업 내용을 비슷한 SK구조를 가진 Face에 적용할 수 있도록 Export/Import하는 기능 제공 (#t4f-330)
 
-### Bugfix
+### [Bugfix]
 ##### Common
   - [Common] NPC Waypoint 이동 및 리플레이 플레이에서 캐릭터 이동 중 캐릭터 간 충돌 방지 옵션이 동작하지 않던 문제 수정 (#t4f-334)
 
 ### AssetUpdate (Dev to TD)
 - #t4f-314 [리소스 업데이트]
-\t- Content\\VirtualFlow\\UIPack\\Common\\T4Builtin_Common_Message.uasset
-\t- Content\\VirtualFlow\\UIPack\\InGame\\T4BuiltinDBBrowserWidget.uasset
-\t- Content\\VirtualFlow\\UIPack\\InGame\\T4BuiltinEquipmentWidget_1.uasset
-\t- Content\\VirtualFlow\\UIPack\\T4BuiltinLoginMainWidget_1.uasset
-\t- Content\\VirtualFlow\\UIPack\\Template\\TileBase\\Common\\T4InventoryTab_TileBase.uasset (New)
-\t- Content\\VirtualFlow\\UIPack\\Template\\TileBase\\InGame\\T4Inventory_TileBase.uasset (New)
-\t- Content\\VirtualFlow\\UIPack\\Template\\TileBase\\InGame\\T4InventoryLayout_TileBase.uasset (New)
-\t- Content\\VirtualFlow\\UIPack\\Template\\TileBase\\Item\\T4InventoryListItem_TileBase.uasset (New)
+  - Content\VirtualFlow\UIPack\Common\T4Builtin_Common_Message.uasset
+  - Content\VirtualFlow\UIPack\InGame\T4BuiltinDBBrowserWidget.uasset
+  - Content\VirtualFlow\UIPack\InGame\T4BuiltinEquipmentWidget_1.uasset
+  - Content\VirtualFlow\UIPack\T4BuiltinLoginMainWidget_1.uasset
+  - Content\VirtualFlow\UIPack\Template\TileBase\Common\T4InventoryTab_TileBase.uasset (New)
+  - Content\VirtualFlow\UIPack\Template\TileBase\InGame\T4Inventory_TileBase.uasset (New)
+  - Content\VirtualFlow\UIPack\Template\TileBase\InGame\T4InventoryLayout_TileBase.uasset (New)
+  - Content\VirtualFlow\UIPack\Template\TileBase\Item\T4InventoryListItem_TileBase.uasset (New)
 
 # 1.0.1.6 : 2022-09-27 17:54:25
 
-### New feature or Enhancement
+### [New feature or Enhancement]
 ##### Client or Server
 ##### Editor
   - [Action] Replay Action Details에서 ReplaySystemAsset의 일부 데이터를 편집할 수 있도록 기능 오픈 (#t4f-320)  
@@ -71,7 +45,7 @@
   - [Content] ProjectDB Add/Duplicate/Remove 후 Undo시 발생하는 크래시 수정 (#t4f-316)
 ##### Common
 
-### Bugfix
+### [Bugfix]
 ##### Client or Server 
   - [Client] 프로젝트 설정에서 GuestMode 선택 시 플레이어 TextDB가 비었을 경우 로그인 실패 문제 수정 (#t4f-328)
 ##### Editor
@@ -80,24 +54,21 @@
 ##### Common
 
 ### AssetUpdate (Dev to TD)
-- [리소스 수정] UIPack\\InGame\\T4BuiltinHUDShortcutWidget.uasset
-
-### Working <= 완료 후 QA요청 예정
-
+- [리소스 수정] UIPack\InGame\T4BuiltinHUDShortcutWidget.uasset
 
 # 1.0.1.5 : 2022-09-26 10:21:11
 
-### New feature or Enhancement
+### [New feature or Enhancement]
 ##### Editor
   - [Content] ProjectDB의 값이 변경됐을 때 관련 원본 데이터가 실시간 갱신 되도록 개선 (#t4f-296)
   - [Action] ActionPackBorwser 필터에 사용하는 ParentEntity의 Skeleton이 동일할 경우에도 함께 표시되도록 개선 (#t4f-305)
   - [Action] Replay Action 추가 (Experimental) (#t4f-305)
     - 클라이언트, 에디터에서 녹화한 리플레이를 ActionTrack으로 추가해 플레이 할 수 있도록 지원
-\t- N개의 리플레이를 동시에 플레이 할 수 있도록 지원
-\t- 플레이중인 N개의 리플레이를 합쳐서 녹화 할 수 있도록 지원
+	- N개의 리플레이를 동시에 플레이 할 수 있도록 지원
+	- 플레이중인 N개의 리플레이를 합쳐서 녹화 할 수 있도록 지원
   - [Entity] Costume Entity의 메타휴먼 BP에서 파츠 가져오기 기능에 특정 파츠만 선택해 가져올 수 있는 기능 추가 (#t4f-307)
  
-### Bugfix
+### [Bugfix]
 ##### Client or Server 
   - [Client] 공용메세지 위젯에 메세지가 반영되지 않는 문제 (#t4f-308)
   - [Client] ItemDescription의 Button Text가 정상적으로 노출되지 않는 문제 (#t4f-311)
@@ -109,14 +80,14 @@
 
 # 1.0.1.4 : 2022-09-21
 
-### New feature or Enhancement
+### [New feature or Enhancement]
 ##### Client or Server
   - [Editor/Client] Editor UI Template 지원 기능 (#t4f-303)
 ##### Common
   - [Common] 캐릭터 얼굴 커스터마이징이 가능한 Character Spawn 기능 개발 (#t4f-247)
     - [캐릭터 커스터마이징 Asset 제작 및 사용법](https://virtualflow.atlassian.net/wiki/spaces/VIRTUALFLOWINTERNAL/pages/78184450/Asset)
 
-### Bugfix
+### [Bugfix]
 ##### Editor
   - [Entity] MetaHuman Character Spawn 후 땅으로 꺼지는 문제 수정 (#t4f-293)
   - [Common] 새 저장소에서 에디터 실행 시 발생하는 크래시 수정 (#t4f-315)
@@ -125,7 +96,7 @@
 
 
 # 1.0.1.3 : 2022-09-20
-### New feature or Enhancement
+### [New feature or Enhancement]
 ##### Editor
   - [Common] VirtualFlowStudio StatusBar 페이지 내 공지사항용 WebBrowser 임베딩 (#t4f-290)
     - https://t4framework.com/Notice.html/Notice_KR.html 연결
@@ -133,7 +104,7 @@
     - T4FrameworkEditorSettings Section
   - [Common] T4Framework 용어 관제 작업 (한/영) 3차 진행 (#t4f-304)
 
-### Bugfix
+### [Bugfix]
 ##### Client or Server 
   - [Client] InventorySlotMax일때 마우스 픽업 경고메세지 출력 추가 (#t4f-291)
 ##### Editor
@@ -145,7 +116,7 @@
 
 
 # 1.0.1.2 : 2022-09-15
-### New feature or Enhancement
+### [New feature or Enhancement]
 ##### Client or Server
   - [Client] 점프 착지 중 궤적 대로 이동하지 않고, 목표 위치로 캐릭터 위치가 Set 되는 문제 수정 (#t4f-292)
   - [Client] 제자리 점프 시 착지 모션이 재생되지 않는 문제 수정 (#t4f-294)
@@ -153,22 +124,22 @@
 ##### Editor
   - [Common] 에디터 Status Bar 에 VirtualFlow Studio 탭(구 T4Projects) 추가 (#t4f-290)
 
-### Bugfix
+### [Bugfix]
 ##### Editor
   - [Content] T4Framework 최초 실행 시, 기존프로젝트의 DB를 찾을 수 없는 문제 수정 (#t4f-268)
 
 ### AssetUpdate (Dev to TD)
 - #t4f-291 DEV/TD 모두 업데이트
-  - Content\\VirtualFlow\\Localization\\System\\T4GameplayMessageDataTable.uasset
-  - Content\\VirtualFlow\\UIPack\\Common\\T4Builtin_Common_Message.uasset
-  - Content\\VirtualFlow\\UIPack\\Common\\T4Builtin_DescriptionItem.uasset
-  - Content\\VirtualFlow\\UIPack\\InGame\\T4BuiltinInventoryWidget.uasset
+  - Content\VirtualFlow\Localization\System\T4GameplayMessageDataTable.uasset
+  - Content\VirtualFlow\UIPack\Common\T4Builtin_Common_Message.uasset
+  - Content\VirtualFlow\UIPack\Common\T4Builtin_DescriptionItem.uasset
+  - Content\VirtualFlow\UIPack\InGame\T4BuiltinInventoryWidget.uasset
 
 # 1.0.1.1 : 2022-09-14
-### New feature or Enhancement
+### [New feature or Enhancement]
 ##### Editor
   - [Common] 에디터 초기 가동 시 레벨에디터 탭에 VirtualFlowStudio 탭(구 T4Projects)가 활성화 되도록 개선 (#t4f-290)
-### Bugfix
+### [Bugfix]
 ##### Client or Server 
   - [Client] 두 System Layer 애니메이션 BlendTime 동안 Idle이 나오는 문제 수정 (#t4f-283)
 ##### Editor
@@ -179,14 +150,14 @@
   - [Common] MetaHuman 캐릭터 스폰 시 SkeletalMesh 가 지하로 꺼지는 문제 수정 (#t4f-293)
 
 # 1.0.1.0 : 2022-09-07
-### New feature or Enhancement
+### [New feature or Enhancement]
 ##### Client or Server
   - [Client] C/S 동기화를 위한 OffsetTime 을 감안한 애니메이션 재생 처리 추가 (#t4f-271)
 ##### Editor
   - [LevelEditor] LevelEditor T4Framework Mode의 플레이어 스폰 기능 추가 (#t4f-128)
   - [Editor] Skill Animation DropList ##### EditorConstantDB Add 기능 추가 (#t4f-264)
   - [Content] 프로젝트 DB 테이블 버전 관리 개선 (#t4f-273)
-### Bugfix
+### [Bugfix]
 ##### Client or Server 
   - [Editor/Client] Dialogue2D Custom Anim 편집을 위해 UMG 연결 (#t4f-270)
   - [Client] UE5에서 폰트 컬러등 표시 안됨 우회 코드 정리 (#t4f-277)
@@ -205,10 +176,10 @@
   - Localization 수정은 TD에도 미리 올려주세요.
   - Dev/TD 동시 업데이트가 불가한 에셋은 Content 폴더 이하 경로를 모두 적어주세요.
 - #t4f-277 (수동 업데이트 예정)
-  - Content\\VirtualFlow\\UIPack\\InGame\\T4BuiltinSayWidget.uasset
-  - Content\\VirtualFlow\\UIPack\\T4Builtin_CreatCharacter_Widget.uasset
-  - Content\\VirtualFlow\\UIPack\\T4BuiltinLobbyMainWidget.uasset
-  - Content\\VirtualFlow\\UIPack\\T4BuiltinLoginMainWidget.uasset
+  - Content\VirtualFlow\UIPack\InGame\T4BuiltinSayWidget.uasset
+  - Content\VirtualFlow\UIPack\T4Builtin_CreatCharacter_Widget.uasset
+  - Content\VirtualFlow\UIPack\T4BuiltinLobbyMainWidget.uasset
+  - Content\VirtualFlow\UIPack\T4BuiltinLoginMainWidget.uasset
 
 # 1.0.0.0 : 2022.08.29
 ### HOTFIX-2 (2022.08.31)
@@ -222,7 +193,7 @@
   - [Client] 점프 준비 중 점프가 취소된 이후, 점프 시도 시 JumpReady 애니메이션이 출력되지 않는 문제 수정 (#t4f-262)
   - [Client] 단차가 있는 곳에서 JumpReady - JumpStart 사이 FallLand 출력되는 문제 수정 (#t4f-263)
 
-### New feature or Enhancement
+### [New feature or Enhancement]
 ##### Client or Server
   - [Client] CreateWidget 만들어 쓰는 Widget들 일부 WidgetManager로 등록 (#t4f-218)
   - [Client] Widget의 연출 기능 추가 (#t4f-235)
@@ -252,7 +223,7 @@
 ##### Common
   - [Server] 세션 패킷 분리 로직 ParallelFor로 수정 (#T4F-233)
 
-### Bugfix
+### [Bugfix]
 ##### Client or Server 
   - [Server] 퀘스트 미디어 멀티 플레이 컨트롤 규칙에 따라 동작 안되는 오류 수정(#T4F-35)
   - [Client] 제자리 회전을 사용하지 않는 경우, 점프시 수직으로 점프되는 문제 수정 (#t4f-231)
@@ -272,17 +243,17 @@
 
 ### AssetUpdate (Dev to TD)
 - #t4f-240 (TD업데이트 이후 수동 업데이트 예정)
-  - Content\\VirtualFlow\\UIPack\\Common\\T4Builtin_DescriptionItem.uasset
-  - Content\\VirtualFlow\\UIPack\\Common\\T4Builtin_Stat.uasset
-  - Content\\VirtualFlow\\UIPack\\Common\\T4BuiltinButton.uasset
-  - Content\\VirtualFlow\\UIPack\\Common\\T4BuiltinButtonExt.uasset (New)
-  - Content\\VirtualFlow\\UIPack\\InGame\\T4BuiltinEquipmentLayoutWidget.uasset
-  - Content\\VirtualFlow\\UIPack\\InGame\\T4BuiltinInventoryLayoutWidget.uasset
-  - Content\\VirtualFlow\\UIPack\\InGame\\T4BuiltinOptionWidget.uasset
-  - Content\\VirtualFlow\\UIPack\\T4Builtin_CreatCharacter_Widget.uasset
-  - Content\\VirtualFlow\\UIPack\\T4BuiltinLobbyMainWidget.uasset
-  - Content\\VirtualFlow\\UIPack\\T4BuiltinLoginMainWidget.uasset
+  - Content\VirtualFlow\UIPack\Common\T4Builtin_DescriptionItem.uasset
+  - Content\VirtualFlow\UIPack\Common\T4Builtin_Stat.uasset
+  - Content\VirtualFlow\UIPack\Common\T4BuiltinButton.uasset
+  - Content\VirtualFlow\UIPack\Common\T4BuiltinButtonExt.uasset (New)
+  - Content\VirtualFlow\UIPack\InGame\T4BuiltinEquipmentLayoutWidget.uasset
+  - Content\VirtualFlow\UIPack\InGame\T4BuiltinInventoryLayoutWidget.uasset
+  - Content\VirtualFlow\UIPack\InGame\T4BuiltinOptionWidget.uasset
+  - Content\VirtualFlow\UIPack\T4Builtin_CreatCharacter_Widget.uasset
+  - Content\VirtualFlow\UIPack\T4BuiltinLobbyMainWidget.uasset
+  - Content\VirtualFlow\UIPack\T4BuiltinLoginMainWidget.uasset
 - #t4f-244  (TD업데이트 이후 수동 업데이트 예정)
-  - Content\\VirtualFlow\\UIPack\\Common\\T4Builtin_MediaWidget.uasset
-  - Content\\VirtualFlow\\UIPack\\InGame\\T4BuiltinDialogueWayWidget.uasset
-  - Content\\VirtualFlow\\UIPack\\InGame\\T4BuiltinDialogueWidget.uasset
+  - Content\VirtualFlow\UIPack\Common\T4Builtin_MediaWidget.uasset
+  - Content\VirtualFlow\UIPack\InGame\T4BuiltinDialogueWayWidget.uasset
+  - Content\VirtualFlow\UIPack\InGame\T4BuiltinDialogueWidget.uasset
