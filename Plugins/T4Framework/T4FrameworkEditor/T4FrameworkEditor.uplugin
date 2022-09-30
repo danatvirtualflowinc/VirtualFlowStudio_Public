@@ -67,12 +67,7 @@
 			"LoadingPhase": "PostEngineInit"
 		},
 		{
-			"Name": "T4UserProjectBrowser",
-			"Type": "Editor",
-			"LoadingPhase": "PostEngineInit"
-		},
-		{
-			"Name": "T4GameDBTableProxy",
+			"Name": "T4ProjectDBTableProxy",
 			"Type": "Editor",
 			"LoadingPhase": "PostEngineInit"
 		},

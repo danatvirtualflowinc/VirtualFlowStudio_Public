@@ -97,41 +97,15 @@
 			"Enabled": true
 		},
 		{
-			"Name": "nDisplay",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux"
-			]
-		},
-		{
-			"Name": "OSC",
-			"Enabled": true
-		},
-		{
-			"Name": "OpenColorIO",
-			"Enabled": true
-		},
-		{
-			"Name": "VirtualProductionUtilities",
+			"Name": "ICVFX",
 			"Enabled": true
 		},
 		{
 			"Name": "GPULightmass",
 			"Enabled": true
-		},
-		{
-			"Name": "Bridge",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac",
-				"Linux"
-			]
 		}
 	],
 	"TargetPlatforms": [
-		"Windows",
-		"WindowsNoEditor"
+		"Windows"
 	]
 }

@@ -28,7 +28,6 @@
 			},
 			"JumpMaxHeight": 200,
 			"JumpHeightSpeed": 500,
-			"JumpReadyTimeSec": 0,
 			"SprintData":
 			{
 				"SpeedScale": 1,
@@ -151,7 +150,6 @@
 			},
 			"JumpMaxHeight": 200,
 			"JumpHeightSpeed": 500,
-			"JumpReadyTimeSec": 0,
 			"SprintData":
 			{
 				"SpeedScale": 1,
@@ -274,7 +272,6 @@
 			},
 			"JumpMaxHeight": 200,
 			"JumpHeightSpeed": 500,
-			"JumpReadyTimeSec": 0,
 			"SprintData":
 			{
 				"SpeedScale": 1,
@@ -397,7 +394,6 @@
 			},
 			"JumpMaxHeight": 200,
 			"JumpHeightSpeed": 500,
-			"JumpReadyTimeSec": 0,
 			"SprintData":
 			{
 				"SpeedScale": 1,

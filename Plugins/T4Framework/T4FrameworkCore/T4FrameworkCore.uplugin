@@ -64,6 +64,10 @@
 			"Enabled": true
 		},
 		{
+			"Name": "EditorScriptingUtilities",
+			"Enabled": true
+		},
+		{
 			"Name": "ControlRig",
 			"Enabled": true
 		}

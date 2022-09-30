@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "CaveEntrance",
-		"Version": 2,
+		"Version": 1,
 		"TitleTextDBKey":
 		{
 			"TextCategory": "Title",
@@ -12,7 +12,6 @@
 			"ValidationResult": "CheckIt"
 		},
 		"WorldTimeTag": "Day",
-		"WorldTime": "Day",
 		"WorldTimeScale": 1,
 		"DefaultPlayerLocation":
 		{
@@ -55,7 +54,7 @@
 	},
 	{
 		"Name": "Junkyard",
-		"Version": 2,
+		"Version": 1,
 		"TitleTextDBKey":
 		{
 			"TextCategory": "Title",
@@ -66,7 +65,6 @@
 			"ValidationResult": "CheckIt"
 		},
 		"WorldTimeTag": "Day",
-		"WorldTime": "Day",
 		"WorldTimeScale": 1,
 		"DefaultPlayerLocation":
 		{
