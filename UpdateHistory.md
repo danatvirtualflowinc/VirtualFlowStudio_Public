@@ -1,3 +1,47 @@
+## 1.0.1.11 : 2022-10-06 15:30:07
+
+### Bugfix
+##### Editor
+  - [Entity] MapEntity Detail, 활성화된 탭과 상관없이 모든 설정 메뉴가 노출되는 문제 수정 (#t4f-352)
+
+##### Common
+  - [Common] Duration이 설정된 Skill의 ActionPack이 출력되지 않던 문제 수정 (#t4f-350)
+
+## 1.0.1.10 : 2022-10-06 10:31:54
+
+### Bugfix
+##### Editor
+  - [Content] 특정 프로젝트(TutorialGame_Example)의 DB설정이 정상적으로 적용되지 않던 문제 수정 (#t4f-350)
+  - [Entity] Map Entity, Level Asset 초기 설정 후 뷰포트 월드 로드 시 발생하는 ensure 및 종료 시 에러 수정 (UE5) (#t4f-349)
+
+## 1.0.1.9 : 2022-10-05 16:06:46
+
+### [New feature or Enhancement]
+##### Editor
+  - [Action] 좌측 레이아웃에 EntityBrowser 추가 (#t4f-305)
+  - [Entity] EntityBrowser에서 Costume 좌클릭 SubMenu로 교환 시도 시 플레이어 Skeleton과 같을 경우만 교환 가능하도록 개선 (#t4f-305)
+  - [Entity] JumpLoop 모션을 PlayRate를 맞추어 한번만 재생하는 System Parameter 옵션 추가 (#t4f-344)
+  - [Entity] 통합 점프 사용 여부에 따른 점프 관련 Parameter Data 숨김 처리 추가 (#t4f-345)
+##### Common
+  - [Editor Common] Bookmark가 비어있을 경우 \"현재 위치로 북마크 업데이트\" 버튼으로 북마크가 추가되도록 개선 (#t4f-305)
+
+### [Bugfix]
+##### Client or Server 
+  - [Client] 파라미터로 분리한 JumpLand 뒷부분이 복구 모션으로 출력되지 않는 문제 수정 (#t4f-346)
+##### Editor
+  - [Content] Costume, Weapon Type의 Item은 Stackable이 동작하지 않고 있던 문제 수정 (#t4f-318)
+  - [GameDB] 비어있는 DB Category Tab 선택 시 이전 탭에서 편집중이던 DB Item 정보가 Details에 표시되던 문제 수정 (#t4f-314)
+  - [Action] 기본 Map Entity 변경 시 로컬에 실제 레벨 에셋이 없을 경우 발생하는 크래시 수정 (#t4f-320)
+  - [World] 편집 대상인 Map Entity 이 로컬에 존재하지 않을 경우 발생하는 크래시 수정 (t4f-340)
+##### Common
+  - [Common] 리플레이로 스폰된 액터가 플레이어 이동에 충돌되는 문제 수정 (#t4f-343)
+    - World RayCasting 관련 코드가 변경되어 기존 캐릭터 피킹, 점프, 낙하, 캐릭터간 충돌 등의 기본 기능 점검 필요
+,
+
+## 0.0.0.0 : 2022-10-04 18:44:54,
+
+## 0.0.0.0 : 2022-10-04 18:22:38,
+
 # 1.0.1.8 : 2022-09-30 16:19:15
 
 ### [New feature or Enhancement]

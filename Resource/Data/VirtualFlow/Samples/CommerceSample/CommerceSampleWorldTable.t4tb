@@ -32,9 +32,9 @@
 		"DefaultCameraSetting":
 		{
 			"DefaultControlMode": "ThirdPersonView",
-			"Pitch": -6.112335205078125,
-			"Yaw": 0.7218017578125,
-			"Distance": 548.77496337890625
+			"Pitch": -6.11234,
+			"Yaw": 0.721802,
+			"Distance": 548.775
 		},
 		"GravityZ": -980,
 		"FallingTimeToDeath": 5,

@@ -75,6 +75,12 @@
 		"ActionPackAssets":
 		{
 		},
+		"GameplayFolder":
+		{
+			"UseGameplayFolder": false,
+			"FolderImage": "None",
+			"ParentFolderName": "None"
+		},
 		"WeaponStanceType": "Unarmed",
 		"VRDataSetName": "Default",
 		"ShapeData":
@@ -87,7 +93,7 @@
 		},
 		"PickupResultType": "Inventory",
 		"PickupAllowRange": 200,
-		"Stackable": false,
+		"Stackable": true,
 		"bFolder": false,
 		"FolderName": "None",
 		"bPinned": true,

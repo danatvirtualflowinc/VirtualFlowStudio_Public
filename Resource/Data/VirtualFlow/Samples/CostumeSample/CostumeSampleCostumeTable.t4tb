@@ -48,6 +48,12 @@
 			"TakeOffActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"GameplayFolder":
+		{
+			"UseGameplayFolder": false,
+			"FolderImage": "None",
+			"ParentFolderName": "None"
+		},
 		"ShapeData":
 		{
 			"ShapeRadius": 0,
@@ -58,7 +64,7 @@
 		},
 		"PickupResultType": "Inventory",
 		"PickupAllowRange": 200,
-		"Stackable": false,
+		"Stackable": true,
 		"bFolder": false,
 		"FolderName": "None",
 		"bPinned": true,
@@ -113,6 +119,12 @@
 			"TakeOffActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"GameplayFolder":
+		{
+			"UseGameplayFolder": false,
+			"FolderImage": "None",
+			"ParentFolderName": "None"
+		},
 		"ShapeData":
 		{
 			"ShapeRadius": 0,
@@ -123,7 +135,7 @@
 		},
 		"PickupResultType": "Inventory",
 		"PickupAllowRange": 200,
-		"Stackable": false,
+		"Stackable": true,
 		"bFolder": false,
 		"FolderName": "None",
 		"bPinned": true,
@@ -178,6 +190,12 @@
 			"TakeOffActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"GameplayFolder":
+		{
+			"UseGameplayFolder": false,
+			"FolderImage": "None",
+			"ParentFolderName": "None"
+		},
 		"ShapeData":
 		{
 			"ShapeRadius": 0,
@@ -188,7 +206,7 @@
 		},
 		"PickupResultType": "Inventory",
 		"PickupAllowRange": 200,
-		"Stackable": false,
+		"Stackable": true,
 		"bFolder": false,
 		"FolderName": "None",
 		"bPinned": true,
@@ -243,6 +261,12 @@
 			"TakeOffActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"GameplayFolder":
+		{
+			"UseGameplayFolder": false,
+			"FolderImage": "None",
+			"ParentFolderName": "None"
+		},
 		"ShapeData":
 		{
 			"ShapeRadius": 0,
@@ -253,7 +277,7 @@
 		},
 		"PickupResultType": "Inventory",
 		"PickupAllowRange": 200,
-		"Stackable": false,
+		"Stackable": true,
 		"bFolder": false,
 		"FolderName": "None",
 		"bPinned": true,
@@ -308,6 +332,12 @@
 			"TakeOffActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"GameplayFolder":
+		{
+			"UseGameplayFolder": false,
+			"FolderImage": "None",
+			"ParentFolderName": "None"
+		},
 		"ShapeData":
 		{
 			"ShapeRadius": 0,
@@ -318,7 +348,7 @@
 		},
 		"PickupResultType": "Inventory",
 		"PickupAllowRange": 200,
-		"Stackable": false,
+		"Stackable": true,
 		"bFolder": false,
 		"FolderName": "None",
 		"bPinned": true,
@@ -373,6 +403,12 @@
 			"TakeOffActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"GameplayFolder":
+		{
+			"UseGameplayFolder": false,
+			"FolderImage": "None",
+			"ParentFolderName": "None"
+		},
 		"ShapeData":
 		{
 			"ShapeRadius": 0,
@@ -383,7 +419,7 @@
 		},
 		"PickupResultType": "Inventory",
 		"PickupAllowRange": 200,
-		"Stackable": false,
+		"Stackable": true,
 		"bFolder": false,
 		"FolderName": "None",
 		"bPinned": true,
@@ -438,6 +474,12 @@
 			"TakeOffActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"GameplayFolder":
+		{
+			"UseGameplayFolder": false,
+			"FolderImage": "None",
+			"ParentFolderName": "None"
+		},
 		"ShapeData":
 		{
 			"ShapeRadius": 0,
@@ -448,7 +490,7 @@
 		},
 		"PickupResultType": "Inventory",
 		"PickupAllowRange": 200,
-		"Stackable": false,
+		"Stackable": true,
 		"bFolder": false,
 		"FolderName": "None",
 		"bPinned": true,
@@ -503,6 +545,12 @@
 			"TakeOffActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"GameplayFolder":
+		{
+			"UseGameplayFolder": false,
+			"FolderImage": "None",
+			"ParentFolderName": "None"
+		},
 		"ShapeData":
 		{
 			"ShapeRadius": 0,
@@ -513,7 +561,7 @@
 		},
 		"PickupResultType": "Inventory",
 		"PickupAllowRange": 200,
-		"Stackable": false,
+		"Stackable": true,
 		"bFolder": false,
 		"FolderName": "None",
 		"bPinned": true,
@@ -568,6 +616,12 @@
 			"TakeOffActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"GameplayFolder":
+		{
+			"UseGameplayFolder": false,
+			"FolderImage": "None",
+			"ParentFolderName": "None"
+		},
 		"ShapeData":
 		{
 			"ShapeRadius": 0,
@@ -578,7 +632,7 @@
 		},
 		"PickupResultType": "Inventory",
 		"PickupAllowRange": 200,
-		"Stackable": false,
+		"Stackable": true,
 		"bFolder": false,
 		"FolderName": "None",
 		"bPinned": true,
@@ -633,6 +687,12 @@
 			"TakeOffActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"GameplayFolder":
+		{
+			"UseGameplayFolder": false,
+			"FolderImage": "None",
+			"ParentFolderName": "None"
+		},
 		"ShapeData":
 		{
 			"ShapeRadius": 0,
@@ -643,7 +703,7 @@
 		},
 		"PickupResultType": "Inventory",
 		"PickupAllowRange": 200,
-		"Stackable": false,
+		"Stackable": true,
 		"bFolder": false,
 		"FolderName": "None",
 		"bPinned": true,
@@ -698,6 +758,12 @@
 			"TakeOffActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"GameplayFolder":
+		{
+			"UseGameplayFolder": false,
+			"FolderImage": "None",
+			"ParentFolderName": "None"
+		},
 		"ShapeData":
 		{
 			"ShapeRadius": 0,
@@ -708,7 +774,7 @@
 		},
 		"PickupResultType": "Inventory",
 		"PickupAllowRange": 200,
-		"Stackable": false,
+		"Stackable": true,
 		"bFolder": false,
 		"FolderName": "None",
 		"bPinned": true,
@@ -763,6 +829,12 @@
 			"TakeOffActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"GameplayFolder":
+		{
+			"UseGameplayFolder": false,
+			"FolderImage": "None",
+			"ParentFolderName": "None"
+		},
 		"ShapeData":
 		{
 			"ShapeRadius": 0,
@@ -773,7 +845,7 @@
 		},
 		"PickupResultType": "Inventory",
 		"PickupAllowRange": 200,
-		"Stackable": false,
+		"Stackable": true,
 		"bFolder": false,
 		"FolderName": "None",
 		"bPinned": true,
@@ -828,6 +900,12 @@
 			"TakeOffActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"GameplayFolder":
+		{
+			"UseGameplayFolder": false,
+			"FolderImage": "None",
+			"ParentFolderName": "None"
+		},
 		"ShapeData":
 		{
 			"ShapeRadius": 0,
@@ -838,7 +916,7 @@
 		},
 		"PickupResultType": "Inventory",
 		"PickupAllowRange": 200,
-		"Stackable": false,
+		"Stackable": true,
 		"bFolder": false,
 		"FolderName": "None",
 		"bPinned": true,
@@ -893,6 +971,12 @@
 			"TakeOffActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"GameplayFolder":
+		{
+			"UseGameplayFolder": false,
+			"FolderImage": "None",
+			"ParentFolderName": "None"
+		},
 		"ShapeData":
 		{
 			"ShapeRadius": 0,
@@ -903,7 +987,7 @@
 		},
 		"PickupResultType": "Inventory",
 		"PickupAllowRange": 200,
-		"Stackable": false,
+		"Stackable": true,
 		"bFolder": false,
 		"FolderName": "None",
 		"bPinned": true,
@@ -958,6 +1042,12 @@
 			"TakeOffActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"GameplayFolder":
+		{
+			"UseGameplayFolder": false,
+			"FolderImage": "None",
+			"ParentFolderName": "None"
+		},
 		"ShapeData":
 		{
 			"ShapeRadius": 0,
@@ -968,7 +1058,7 @@
 		},
 		"PickupResultType": "Inventory",
 		"PickupAllowRange": 200,
-		"Stackable": false,
+		"Stackable": true,
 		"bFolder": false,
 		"FolderName": "None",
 		"bPinned": true,
@@ -1023,6 +1113,12 @@
 			"TakeOffActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"GameplayFolder":
+		{
+			"UseGameplayFolder": false,
+			"FolderImage": "None",
+			"ParentFolderName": "None"
+		},
 		"ShapeData":
 		{
 			"ShapeRadius": 0,
@@ -1033,7 +1129,7 @@
 		},
 		"PickupResultType": "Inventory",
 		"PickupAllowRange": 200,
-		"Stackable": false,
+		"Stackable": true,
 		"bFolder": false,
 		"FolderName": "None",
 		"bPinned": true,
@@ -1088,6 +1184,12 @@
 			"TakeOffActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"GameplayFolder":
+		{
+			"UseGameplayFolder": false,
+			"FolderImage": "None",
+			"ParentFolderName": "None"
+		},
 		"ShapeData":
 		{
 			"ShapeRadius": 0,
@@ -1098,7 +1200,7 @@
 		},
 		"PickupResultType": "Inventory",
 		"PickupAllowRange": 200,
-		"Stackable": false,
+		"Stackable": true,
 		"bFolder": false,
 		"FolderName": "None",
 		"bPinned": true,
@@ -1153,6 +1255,12 @@
 			"TakeOffActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"GameplayFolder":
+		{
+			"UseGameplayFolder": false,
+			"FolderImage": "None",
+			"ParentFolderName": "None"
+		},
 		"ShapeData":
 		{
 			"ShapeRadius": 0,
@@ -1163,7 +1271,7 @@
 		},
 		"PickupResultType": "Inventory",
 		"PickupAllowRange": 200,
-		"Stackable": false,
+		"Stackable": true,
 		"bFolder": false,
 		"FolderName": "None",
 		"bPinned": true,
@@ -1218,6 +1326,12 @@
 			"TakeOffActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"GameplayFolder":
+		{
+			"UseGameplayFolder": false,
+			"FolderImage": "None",
+			"ParentFolderName": "None"
+		},
 		"ShapeData":
 		{
 			"ShapeRadius": 0,
@@ -1228,7 +1342,7 @@
 		},
 		"PickupResultType": "Inventory",
 		"PickupAllowRange": 200,
-		"Stackable": false,
+		"Stackable": true,
 		"bFolder": false,
 		"FolderName": "None",
 		"bPinned": true,
@@ -1283,6 +1397,12 @@
 			"TakeOffActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"GameplayFolder":
+		{
+			"UseGameplayFolder": false,
+			"FolderImage": "None",
+			"ParentFolderName": "None"
+		},
 		"ShapeData":
 		{
 			"ShapeRadius": 0,
@@ -1293,7 +1413,7 @@
 		},
 		"PickupResultType": "Inventory",
 		"PickupAllowRange": 200,
-		"Stackable": false,
+		"Stackable": true,
 		"bFolder": false,
 		"FolderName": "None",
 		"bPinned": true,
@@ -1348,6 +1468,12 @@
 			"TakeOffActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"GameplayFolder":
+		{
+			"UseGameplayFolder": false,
+			"FolderImage": "None",
+			"ParentFolderName": "None"
+		},
 		"ShapeData":
 		{
 			"ShapeRadius": 0,
@@ -1358,7 +1484,7 @@
 		},
 		"PickupResultType": "Inventory",
 		"PickupAllowRange": 200,
-		"Stackable": false,
+		"Stackable": true,
 		"bFolder": false,
 		"FolderName": "None",
 		"bPinned": true,
@@ -1413,6 +1539,12 @@
 			"TakeOffActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"GameplayFolder":
+		{
+			"UseGameplayFolder": false,
+			"FolderImage": "None",
+			"ParentFolderName": "None"
+		},
 		"ShapeData":
 		{
 			"ShapeRadius": 0,
@@ -1423,7 +1555,7 @@
 		},
 		"PickupResultType": "Inventory",
 		"PickupAllowRange": 200,
-		"Stackable": false,
+		"Stackable": true,
 		"bFolder": false,
 		"FolderName": "None",
 		"bPinned": true,
