@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "NewDBKeyName",
-		"Version": 4,
+		"Version": 5,
 		"NameTextDBKey":
 		{
 			"TextCategory": "Name",
