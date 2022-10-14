@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "Sample_Sword",
-		"Version": 5,
+		"Version": 7,
 		"NameTextDBKey":
 		{
 			"TextCategory": "Name",
@@ -58,6 +58,7 @@
 			"ValidationResult": "CheckIt"
 		},
 		"bDontUseMesh": false,
+		"bUseMesh": true,
 		"WeaponEntityAsset": "/Game/VirtualFlow/Samples/CharacterSample/Entity/Weapons/Sample_Sword.Sample_Sword",
 		"StanceAttachPoints":
 		{
@@ -70,6 +71,15 @@
 			"MountActionPackAsset": "None",
 			"UnmountActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
+		},
+		"ActionPackAssets":
+		{
+		},
+		"GameplayFolder":
+		{
+			"UseGameplayFolder": false,
+			"FolderImage": "None",
+			"ParentFolderName": "None"
 		},
 		"WeaponStanceType": "RightHand",
 		"VRDataSetName": "Default",
@@ -91,7 +101,7 @@
 	},
 	{
 		"Name": "Sample_NoWeapon",
-		"Version": 5,
+		"Version": 7,
 		"NameTextDBKey":
 		{
 			"TextCategory": "Name",
@@ -148,6 +158,7 @@
 			"ValidationResult": "CheckIt"
 		},
 		"bDontUseMesh": true,
+		"bUseMesh": false,
 		"WeaponEntityAsset": "None",
 		"StanceAttachPoints":
 		{
@@ -160,6 +171,15 @@
 			"MountActionPackAsset": "None",
 			"UnmountActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
+		},
+		"ActionPackAssets":
+		{
+		},
+		"GameplayFolder":
+		{
+			"UseGameplayFolder": false,
+			"FolderImage": "None",
+			"ParentFolderName": "None"
 		},
 		"WeaponStanceType": "Unarmed",
 		"VRDataSetName": "Default",
@@ -181,7 +201,7 @@
 	},
 	{
 		"Name": "Sample_Gun",
-		"Version": 5,
+		"Version": 7,
 		"NameTextDBKey":
 		{
 			"TextCategory": "Name",
@@ -256,6 +276,7 @@
 			"ValidationResult": "CheckIt"
 		},
 		"bDontUseMesh": false,
+		"bUseMesh": true,
 		"WeaponEntityAsset": "/Game/VirtualFlow/Samples/CharacterSample/Entity/Weapons/Gun.Gun",
 		"StanceAttachPoints":
 		{
@@ -268,6 +289,15 @@
 			"MountActionPackAsset": "None",
 			"UnmountActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
+		},
+		"ActionPackAssets":
+		{
+		},
+		"GameplayFolder":
+		{
+			"UseGameplayFolder": false,
+			"FolderImage": "None",
+			"ParentFolderName": "None"
 		},
 		"WeaponStanceType": "RightHand",
 		"VRDataSetName": "Default",

@@ -90,9 +90,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.5,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5,
-			"OpeningEventName": "None",
-			"ClosedEventName": "None"
+			"DisappearAfterDeathTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -226,9 +224,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5,
-			"OpeningEventName": "None",
-			"ClosedEventName": "None"
+			"DisappearAfterDeathTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -362,9 +358,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.5,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5,
-			"OpeningEventName": "None",
-			"ClosedEventName": "None"
+			"DisappearAfterDeathTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -498,9 +492,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5,
-			"OpeningEventName": "None",
-			"ClosedEventName": "None"
+			"DisappearAfterDeathTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -634,9 +626,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5,
-			"OpeningEventName": "None",
-			"ClosedEventName": "None"
+			"DisappearAfterDeathTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -770,9 +760,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5,
-			"OpeningEventName": "None",
-			"ClosedEventName": "None"
+			"DisappearAfterDeathTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -906,9 +894,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5,
-			"OpeningEventName": "None",
-			"ClosedEventName": "None"
+			"DisappearAfterDeathTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -1042,9 +1028,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5,
-			"OpeningEventName": "None",
-			"ClosedEventName": "None"
+			"DisappearAfterDeathTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -1178,9 +1162,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5,
-			"OpeningEventName": "None",
-			"ClosedEventName": "None"
+			"DisappearAfterDeathTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -1314,9 +1296,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5,
-			"OpeningEventName": "None",
-			"ClosedEventName": "None"
+			"DisappearAfterDeathTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -1450,9 +1430,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5,
-			"OpeningEventName": "None",
-			"ClosedEventName": "None"
+			"DisappearAfterDeathTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -1586,9 +1564,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.5,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5,
-			"OpeningEventName": "None",
-			"ClosedEventName": "None"
+			"DisappearAfterDeathTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{

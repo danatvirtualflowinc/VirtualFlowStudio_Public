@@ -46,6 +46,12 @@
 			"UseActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"GameplayFolder":
+		{
+			"UseGameplayFolder": false,
+			"FolderImage": "None",
+			"ParentFolderName": "None"
+		},
 		"ShapeData":
 		{
 			"ShapeRadius": 0,
@@ -109,6 +115,12 @@
 			"UseActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"GameplayFolder":
+		{
+			"UseGameplayFolder": false,
+			"FolderImage": "None",
+			"ParentFolderName": "None"
+		},
 		"ShapeData":
 		{
 			"ShapeRadius": 0,
@@ -171,6 +183,12 @@
 			"DropActionPackAsset": "None",
 			"UseActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
+		},
+		"GameplayFolder":
+		{
+			"UseGameplayFolder": false,
+			"FolderImage": "None",
+			"ParentFolderName": "None"
 		},
 		"ShapeData":
 		{

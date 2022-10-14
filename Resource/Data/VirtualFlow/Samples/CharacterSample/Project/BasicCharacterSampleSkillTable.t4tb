@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "Sample_Sword_DefaultAttack",
-		"Version": 4,
+		"Version": 5,
 		"NameTextDBKey":
 		{
 			"TextCategory": "Name",
@@ -96,6 +96,10 @@
 		"CancelActionPackAsset": "None",
 		"IndicateActionPackAsset": "None",
 		"LevelUpActionPackAsset": "None",
+		"ActionPackAssets":
+		{
+			"Using": "/Game/VirtualFlow/Samples/CharacterSample/Entity/Characters/SampleCharacter/ActionPack/Sword/Sample_Sword_Attack.Sample_Sword_Attack"
+		},
 		"IconTextureAsset": "None",
 		"UICoolTimeSec": 0,
 		"bFolder": false,
@@ -105,7 +109,7 @@
 	},
 	{
 		"Name": "Sample_Sword_Dodge",
-		"Version": 4,
+		"Version": 5,
 		"NameTextDBKey":
 		{
 			"TextCategory": "Name",
@@ -200,6 +204,10 @@
 		"CancelActionPackAsset": "None",
 		"IndicateActionPackAsset": "None",
 		"LevelUpActionPackAsset": "None",
+		"ActionPackAssets":
+		{
+			"Using": "/Game/VirtualFlow/Samples/CharacterSample/Entity/Characters/SampleCharacter/ActionPack/Sword/Sample_Sword_Dodge.Sample_Sword_Dodge"
+		},
 		"IconTextureAsset": "/Game/VirtualFlow/SampleDefenseGame/Entity/Character/Player/Portrait/T_SkillDash.T_SkillDash",
 		"UICoolTimeSec": 0,
 		"bFolder": false,
@@ -209,7 +217,7 @@
 	},
 	{
 		"Name": "Sword",
-		"Version": 4,
+		"Version": 5,
 		"NameTextDBKey":
 		{
 			"TextCategory": "Name",
@@ -304,6 +312,9 @@
 		"CancelActionPackAsset": "None",
 		"IndicateActionPackAsset": "None",
 		"LevelUpActionPackAsset": "None",
+		"ActionPackAssets":
+		{
+		},
 		"IconTextureAsset": "None",
 		"UICoolTimeSec": 0,
 		"bFolder": true,
@@ -313,7 +324,7 @@
 	},
 	{
 		"Name": "Sample_Gun_DefaultAttack",
-		"Version": 4,
+		"Version": 5,
 		"NameTextDBKey":
 		{
 			"TextCategory": "Name",
@@ -366,7 +377,7 @@
 				"bUseOverlapEvents": false
 			},
 			"HitDelayTimeSec": 0,
-			"DurationSec": 0.60000002384185791,
+			"DurationSec": 0.6,
 			"CoolTimeSec": 0,
 			"AttackRange": 4000,
 			"bLimitAttackRange": false,
@@ -408,6 +419,10 @@
 		"CancelActionPackAsset": "None",
 		"IndicateActionPackAsset": "None",
 		"LevelUpActionPackAsset": "None",
+		"ActionPackAssets":
+		{
+			"Using": "/Game/VirtualFlow/Samples/CharacterSample/Entity/Characters/SampleCharacter/ActionPack/Gun/Sample_Gun_DefaultAttack.Sample_Gun_DefaultAttack"
+		},
 		"IconTextureAsset": "None",
 		"UICoolTimeSec": 0,
 		"bFolder": false,
@@ -417,7 +432,7 @@
 	},
 	{
 		"Name": "Gun",
-		"Version": 4,
+		"Version": 5,
 		"NameTextDBKey":
 		{
 			"TextCategory": "Name",
@@ -512,6 +527,9 @@
 		"CancelActionPackAsset": "None",
 		"IndicateActionPackAsset": "None",
 		"LevelUpActionPackAsset": "None",
+		"ActionPackAssets":
+		{
+		},
 		"IconTextureAsset": "None",
 		"UICoolTimeSec": 0,
 		"bFolder": true,

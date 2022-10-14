@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "Sample_SwordSkillSet",
-		"Version": 1,
+		"Version": 2,
 		"PlayMode": "Primary",
 		"BodyDBKey_Overlap":
 		{
@@ -57,6 +57,42 @@
 			"RowName": "None",
 			"ValidationResult": "CheckIt"
 		},
+		"NormalDBKey_A":
+		{
+			"Type": "Skill",
+			"RowName": "Sample_Sword_DefaultAttack",
+			"ValidationResult": "CheckIt"
+		},
+		"NormalDBKey_B":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"NormalDBKey_C":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"NormalDBKey_D":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"NormalDBKey_E":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"NormalDBKey_F":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
 		"AbilityDBKey_A":
 		{
 			"Type": "Skill",
@@ -89,7 +125,7 @@
 	},
 	{
 		"Name": "Sample_Gun_SkillSet",
-		"Version": 1,
+		"Version": 2,
 		"PlayMode": "Primary",
 		"BodyDBKey_Overlap":
 		{
@@ -140,6 +176,42 @@
 			"ValidationResult": "CheckIt"
 		},
 		"AttackDBKey_F":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"NormalDBKey_A":
+		{
+			"Type": "Skill",
+			"RowName": "Sample_Gun_DefaultAttack",
+			"ValidationResult": "CheckIt"
+		},
+		"NormalDBKey_B":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"NormalDBKey_C":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"NormalDBKey_D":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"NormalDBKey_E":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"NormalDBKey_F":
 		{
 			"Type": "Skill",
 			"RowName": "None",

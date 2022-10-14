@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "Cutscene_Step1",
-		"Version": 3,
+		"Version": 4,
 		"TitleTextDBKey":
 		{
 			"TextCategory": "Title",
@@ -50,7 +50,7 @@
 	},
 	{
 		"Name": "Cutscene_Step2",
-		"Version": 3,
+		"Version": 4,
 		"TitleTextDBKey":
 		{
 			"TextCategory": "Title",

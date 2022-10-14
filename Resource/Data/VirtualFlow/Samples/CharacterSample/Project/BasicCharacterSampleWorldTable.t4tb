@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "Sample_ObjectTestMap",
-		"Version": 1,
+		"Version": 2,
 		"TitleTextDBKey":
 		{
 			"TextCategory": "Title",
@@ -12,6 +12,7 @@
 			"ValidationResult": "CheckIt"
 		},
 		"WorldTimeTag": "Day",
+		"WorldTime": "Day",
 		"WorldTimeScale": 1,
 		"DefaultPlayerLocation":
 		{
@@ -31,9 +32,9 @@
 		"DefaultCameraSetting":
 		{
 			"DefaultControlMode": "ThirdPersonView",
-			"Pitch": -2.855865478515625,
+			"Pitch": -2.85587,
 			"Yaw": 0,
-			"Distance": 1141.290771484375
+			"Distance": 1141.29
 		},
 		"GravityZ": -980,
 		"FallingTimeToDeath": 5,
@@ -54,7 +55,7 @@
 	},
 	{
 		"Name": "Sample_BattleTestMap",
-		"Version": 1,
+		"Version": 2,
 		"TitleTextDBKey":
 		{
 			"TextCategory": "Title",
@@ -65,6 +66,7 @@
 			"ValidationResult": "CheckIt"
 		},
 		"WorldTimeTag": "Day",
+		"WorldTime": "Day",
 		"WorldTimeScale": 1,
 		"DefaultPlayerLocation":
 		{
