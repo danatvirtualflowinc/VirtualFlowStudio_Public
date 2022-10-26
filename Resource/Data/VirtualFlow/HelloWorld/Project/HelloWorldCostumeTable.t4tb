@@ -48,6 +48,7 @@
 			"TakeOffActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"EquipPartsGroupName": "None",
 		"GameplayFolder":
 		{
 			"UseGameplayFolder": false,
@@ -119,6 +120,7 @@
 			"TakeOffActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"EquipPartsGroupName": "None",
 		"GameplayFolder":
 		{
 			"UseGameplayFolder": false,
@@ -190,6 +192,7 @@
 			"TakeOffActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"EquipPartsGroupName": "None",
 		"GameplayFolder":
 		{
 			"UseGameplayFolder": false,
@@ -261,6 +264,7 @@
 			"TakeOffActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"EquipPartsGroupName": "None",
 		"GameplayFolder":
 		{
 			"UseGameplayFolder": false,
@@ -332,6 +336,7 @@
 			"TakeOffActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"EquipPartsGroupName": "None",
 		"GameplayFolder":
 		{
 			"UseGameplayFolder": false,
@@ -403,6 +408,7 @@
 			"TakeOffActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"EquipPartsGroupName": "None",
 		"GameplayFolder":
 		{
 			"UseGameplayFolder": false,
@@ -474,6 +480,7 @@
 			"TakeOffActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"EquipPartsGroupName": "None",
 		"GameplayFolder":
 		{
 			"UseGameplayFolder": false,
@@ -545,6 +552,7 @@
 			"TakeOffActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"EquipPartsGroupName": "None",
 		"GameplayFolder":
 		{
 			"UseGameplayFolder": false,
@@ -616,6 +624,7 @@
 			"TakeOffActionPackAsset": "None",
 			"LevelUpActionPackAsset": "None"
 		},
+		"EquipPartsGroupName": "None",
 		"GameplayFolder":
 		{
 			"UseGameplayFolder": false,

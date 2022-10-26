@@ -75,6 +75,7 @@
 		"ActionPackAssets":
 		{
 		},
+		"EquipPartsGroupName": "None",
 		"GameplayFolder":
 		{
 			"UseGameplayFolder": false,
@@ -175,6 +176,7 @@
 		"ActionPackAssets":
 		{
 		},
+		"EquipPartsGroupName": "None",
 		"GameplayFolder":
 		{
 			"UseGameplayFolder": false,
@@ -293,6 +295,7 @@
 		"ActionPackAssets":
 		{
 		},
+		"EquipPartsGroupName": "None",
 		"GameplayFolder":
 		{
 			"UseGameplayFolder": false,
@@ -411,6 +414,7 @@
 		"ActionPackAssets":
 		{
 		},
+		"EquipPartsGroupName": "None",
 		"GameplayFolder":
 		{
 			"UseGameplayFolder": false,

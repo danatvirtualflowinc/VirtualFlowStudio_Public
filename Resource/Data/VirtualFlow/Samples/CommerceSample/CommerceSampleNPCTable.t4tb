@@ -90,7 +90,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -231,7 +231,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -365,7 +365,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -499,7 +499,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -633,7 +633,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -767,7 +767,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -901,7 +901,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -1035,7 +1035,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -1169,7 +1169,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -1303,7 +1303,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -1437,7 +1437,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -1571,7 +1571,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -1705,7 +1705,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -1839,7 +1839,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -1973,7 +1973,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -2107,7 +2107,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -2241,7 +2241,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -2375,7 +2375,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -2509,7 +2509,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -2643,7 +2643,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -2777,7 +2777,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -2911,7 +2911,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -3045,7 +3045,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -3179,7 +3179,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -3313,7 +3313,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -3447,7 +3447,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -3581,7 +3581,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -3715,7 +3715,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -3849,7 +3849,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -3983,7 +3983,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -4117,7 +4117,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -4251,7 +4251,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -4385,7 +4385,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -4519,7 +4519,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -4653,7 +4653,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -4787,7 +4787,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -4921,7 +4921,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -5055,7 +5055,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -5189,7 +5189,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
@@ -5323,7 +5323,7 @@
 			"RoamingRange": 0,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5
+			"WorldLeveDelayTimeSec": 5
 		},
 		"DeathRewardDBKey":
 		{
